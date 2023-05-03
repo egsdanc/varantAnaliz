@@ -1,0 +1,904 @@
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csprojAssemblyReference.cache
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\eyupo\Documents\MatriksIqClient\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\Yeni klasör (2)\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\ClientDemoExceltoplugonder\ClientDemoApp-main\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\4)ClientDemoAppexcel\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\5)ClientDemoAppexcelsembololustur\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\6)ClientDemoAppemırsembolfull\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\7)ClientDemoAppemiriptal\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\EntityFramework.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\EntityFramework.xml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gs_er\Desktop\8)ClientDemoAppSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.xml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\gs_er\Desktop\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\sembolekle.g.cs
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\sembolekle.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\filtrele.g.cs
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\obj\Debug\filtrele.baml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EPPlus.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\EPPlus.xml
+C:\Users\gs_er\Desktop\matriks\9)ClientDemoAppOTOSatis\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EntityFramework.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EPPlus.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EntityFramework.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\EPPlus.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\filtrele.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\sembolekle.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\filtrele.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\sembolekle.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varanC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\filtrele.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\sembolekle.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\filtrele.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\sembolekle.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\gs_er\Desktop\34 35 46 100%  FF22232E\varantC#\ClientApiAppDemo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe.config
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\ClientApiAppDemo.pdb
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\WebDriver.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\MessagePack.dll
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.pdb
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\Matriks.ApiClient.dll.config
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\EPPlus.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\HtmlAgilityPack.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\System.Data.SQLite.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\bin\Debug\MessagePack.xml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.AssemblyReference.cache
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.ResolveComReference.cache
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\ColorResources.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\AutoHideToolbarBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ButtonBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CalendarBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\CheckBoxBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ComboBoxBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DataGridBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\DatePickerBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FeatureToolResources.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\FrameworkElements.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GeometryResources.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\GroupBoxBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\LabelBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ListBoxBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\MenuBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ProgressBarBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\RadioButtonBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ScrollBarBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\SeparatorBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TabControlBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TextBoxBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ThemeSelectorCombo.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToggleButtonBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TollbarTrayBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\ToolWindowBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TreeViewBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\FrameworkElements\TwitterBase.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\App.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\filtrele.g.cs
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\MainWindow.g.cs
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\OrderView.g.cs
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\sembolekle.g.cs
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\App.g.cs
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.cache
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo_MarkupCompile.lref
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\filtrele.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\MainWindow.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\OrderView.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\sembolekle.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\Themes\ThemeBlueStack.baml
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.g.resources
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.Properties.Resources.resources
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.GenerateResource.cache
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CoreCompileInputs.cache
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.csproj.CopyComplete
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.exe
+C:\Users\gs_er\Desktop\varantanaliz\varantC#\ClientApiAppDemo\obj\Debug\ClientApiAppDemo.pdb
